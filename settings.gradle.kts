@@ -37,6 +37,7 @@ gradle.rootProject {
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
+        maven("https://jitpack.io")
         maven("https://raw.githubusercontent.com/kotlin-graphics/mary/master")
     }
 }
