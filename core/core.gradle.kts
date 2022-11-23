@@ -16,7 +16,7 @@ version = rootProject.version
 dependencies {
     implementation(kotlin("reflect"))
 
-    implementation("kotlin.graphics:gln:0.5.31")
+    implementation("kotlin.graphics:gln:0.5.32")
     implementation("kotlin.graphics:gli:0.8.3.0-18")
 //    implementation("kotlin.graphics:glm:0.9.9.1-5")
     implementation("com.github.qiao-coder:glm:0.9.9.1-6")
